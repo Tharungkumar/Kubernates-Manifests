@@ -24,4 +24,4 @@ spec:
       - name: httpd-container
         image: httpd:2.4
         ports:
-        - containerPort: 90
+        - containerPort: 80
